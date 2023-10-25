@@ -9,3 +9,9 @@ h1{
     font-size: 40px;
     font-style: italic;
 }
+#texto1 {
+    color: #ff1717;
+}
+#texto2 {
+    color: blue;
+}
