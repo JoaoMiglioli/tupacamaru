@@ -20,3 +20,14 @@ h1{
     font-size: 35px;
     font-style: italic;
 }
+listas{
+    background-color: #ffdd09;
+}
+
+header{
+    padding: 20px;
+    background-color: cadetblue;
+    border-bottom: black;
+    color: whitesmoke;
+    font-size: 20px;
+}
